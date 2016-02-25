@@ -1,0 +1,4 @@
+-exportcontents: de.bsvrz.sys.funclib.timeout.*
+-sources: true
+
+Bundle-Name: de.bsvrz.sys.funclib.timeout
