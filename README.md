@@ -1,4 +1,4 @@
-de.bsvrz.sys.funclib.timeout v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.timeout.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.timeout)
+de.bsvrz.sys.funclib.timeout v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.timeout.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.timeout)
 ===================================
 
 
