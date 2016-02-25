@@ -57,14 +57,6 @@
         <url>https://travis-ci.org/datenverteiler/${project.artifactId}/</url>
     </ciManagement>
 
-    <dependencies>
-        <dependency>
-            <groupId>de.bsvrz.dav</groupId>
-            <artifactId>de.bsvrz.dav.daf</artifactId>
-            <version>${kernsoftware.version}</version>
-        </dependency>
-    </dependencies>
-
     <build>
         <plugins>
             <plugin>
