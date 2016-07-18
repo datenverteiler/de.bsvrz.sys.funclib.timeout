@@ -14,7 +14,7 @@
             <leftColumnClass>span3</leftColumnClass>
             <bodyColumnClass>span9</bodyColumnClass>
             <gitHub>
-                <projectId>datenverteiler/de.bsvrz.sys.funclib.timeout</projectId>
+                <projectId>bitctrl/de.bsvrz.sys.funclib.timeout</projectId>
                 <ribbonOrientation>right</ribbonOrientation>
             </gitHub>
         </fluidoSkin>
